@@ -1,0 +1,102 @@
+.product_card{
+    height:auto;
+    width: 100%;
+    margin-bottom: 40px;
+}
+.product_card div>h2{
+    text-align: center;
+    color: var(--gender-color);
+    font-style: italic;
+}
+.product_card .row {
+    width: 100%;
+}
+.product_image{
+    width: 25%;
+}
+
+.product_card .offer-carousel{
+    width: 100%;
+    height: 66vh;
+}
+.product_image_unmissable{
+    width: 100%;
+}
+
+.product_image_unmissable img{
+    width: 100%;
+} 
+
+.product_image img{
+    width: 100%;
+    margin-left: 10px;
+}
+
+
+
+.premium_brands{
+    height:auto;
+    width: 100%;
+    margin-bottom: 40px;
+}
+.premium_brands div>h2{
+    text-align: center;
+    color: var(--gender-color);
+    font-style: italic;
+}
+.premium_brands, .row{
+    width: 100%;
+}
+.brand_img{
+    width: 25%;
+}
+.brand_img img{
+    width: 100%;
+    margin-left: 10px;
+}
+.footwear_card{
+    height:auto;
+    width: 100%;
+    margin-bottom: 40px;
+}
+.footwear_card div>h2{
+    text-align: center;
+    color: var(--gender-color);
+    font-style: italic;
+}
+.footwear_card .img-carousel{
+    width: 100%;
+    height: 62vh;
+}
+.footwear_image{
+    width: 100%;
+}
+.footwear_image img{
+    width: 100%;
+    margin-left: 10px;
+}
+
+.extra_offer_card .offer-carousel{
+    height: 62vh;
+    width: 100%;
+}
+.offer_image{
+    width:100%;
+}
+.offer_image img{
+    width: 100%;
+    margin-left: 10px;
+    border: 1px solid var(--offerborder-color);
+    margin-bottom: 40px;
+}
+
+.owl-carousel .owl-stage-outer .owl-stage .owl-item {
+    width: 407px !important;
+    height: 67vh !important;
+    margin-left: 1.6% !important;
+    margin-right: 0 !important;
+  }
+
+  .carousel_margin{
+    margin-bottom:5%
+  }
